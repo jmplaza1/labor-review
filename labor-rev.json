@@ -1,0 +1,82 @@
+{
+"name": "Labor Review",
+"url" : "",
+"facts" : "",
+"issue" : "",
+"ruling" : "",
+"significance" : "",
+"correlation" : "",
+"details": "",
+"children": 
+[
+    {
+        "name": "Module 1",
+        "url" : "",
+        "facts" : "",
+        "issue" : "",
+        "ruling" : "",
+        "significance" : "",
+        "correlation" : "",
+        "details": "",
+        "children": 
+        [
+            {
+                    "name": "Fundamental Principles",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },
+                {
+                    "name": "Article 219",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                    [
+                    
+                    ]
+                    },
+                                {
+                "name": "Fundamental Principles",
+                "url" : "",
+                "facts" : "",
+                "issue" : "",
+                "ruling" : "",
+                "significance" : "",
+                "correlation" : "",
+                "details": "",
+                "children": 
+                [
+                
+                ]
+                },
+                            {
+                "name": "Fundamental Principles",
+                "url" : "",
+                "facts" : "",
+                "issue" : "",
+                "ruling" : "",
+                "significance" : "",
+                "correlation" : "",
+                "details": "",
+                "children": 
+                [
+                
+                ]
+                }
+        ]
+        }
+]
+}
