@@ -76,13 +76,13 @@
                 },     
                 {
                     "name": "Art. 227",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/labor-code-article-227/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
                     "significance" : "",
                     "correlation" : "",
-                    "details": "",
+                    "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.||| (Labor Code of the Philippines, Presidential Decree No. 442 (Amended & Renumbered), [July 21, 2015])",
                     "children": 
                 [
                 
@@ -90,13 +90,13 @@
                 },         
                 {
                     "name": "Art. 229",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/labor-code-art-229/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
                     "significance" : "",
                     "correlation" : "",
-                    "details": "",
+                    "details": "Appeal",
                     "children": 
                 [
                 
@@ -104,13 +104,13 @@
                 },   
                 {
                     "name": "Art. 230",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/labor-code-art-230/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
                     "significance" : "",
                     "correlation" : "",
-                    "details": "",
+                    "details": "Execution of Decisions, Orders, or Awards. ",
                     "children": 
                 [
                 
@@ -118,7 +118,7 @@
                 },
                 {
                     "name": "Reliefs against Judgments/Decisions rendered by the Commission",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
@@ -127,12 +127,39 @@
                     "details": "",
                     "children": 
                 [
-                
+                    {
+                        "name": "Petition for Certiorari under Rule 65",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                    
+                    ]
+                    },
+                    {
+                        "name": "Appeal of the CA decision to the SC",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                    
+                    ]
+                    }                    
                 ]
                 },  
                 {
                     "name": "Seafarer's Protection Act",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
@@ -157,7 +184,7 @@
                     },
                     {
                         "name": "Art. 232",
-                        "url" : "",
+                        "url" : "https://jurisprudence.tech/labor-code-art-232/",
                         "facts" : "",
                         "issue" : "",
                         "ruling" : "",
