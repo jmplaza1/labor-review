@@ -35,7 +35,7 @@
                 ]
                 },
                 {
-                    "name": "Article 219",
+                    "name": "Art. 219",
                     "url" : "",
                     "facts" : "",
                     "issue" : "",
@@ -44,38 +44,163 @@
                     "correlation" : "",
                     "details": "",
                     "children": 
-                    [
-                    
-                    ]
-                    },
-                                {
-                "name": "Fundamental Principles",
-                "url" : "",
-                "facts" : "",
-                "issue" : "",
-                "ruling" : "",
-                "significance" : "",
-                "correlation" : "",
-                "details": "",
-                "children": 
                 [
                 
                 ]
                 },
-                            {
-                "name": "Fundamental Principles",
-                "url" : "",
-                "facts" : "",
-                "issue" : "",
-                "ruling" : "",
-                "significance" : "",
-                "correlation" : "",
-                "details": "",
-                "children": 
+                {
+                    "name": "Art. 224",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
                 [
                 
                 ]
-                }
+                },
+                {
+                    "name": "Art. 225",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },     
+                {
+                    "name": "Art. 227",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },         
+                {
+                    "name": "Art. 229",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },   
+                {
+                    "name": "Art. 230",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },
+                {
+                    "name": "Reliefs against Judgments/Decisions rendered by the Commission",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },  
+                {
+                    "name": "Seafarer's Protection Act",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                    {
+                        "name": "IRR DO No. 153-16",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                    
+                    ]
+                    },
+                    {
+                        "name": "Art. 232",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                    
+                    ]
+                    },
+                    {
+                        "name": "Art. 233",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                    
+                    ]
+                    },                                        
+                ]
+                },
+                {
+                    "name": "Art. 238",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": 
+                [
+                
+                ]
+                },                                                                                                             
         ]
         }
 ]
