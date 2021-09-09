@@ -44,7 +44,56 @@
                     "correlation" : "",
                     "details": "Definitions",
                     "children": 
-                [                ]
+                [                
+                    {
+                        "name": "Citibank v. CA",
+                        "url" : "https://jurisprudence.tech/labor-code-art-219/",
+                        "facts" : "",
+                        "issue" : "Whether or not a labor dispute existed between Citibank and the Security Guard members of CIGLA.",
+                        "ruling" : "No. Article 212 (1) of the Labor Code provides that “labor dispute” includes any controversy or matter concerning terms of conditions of employment or the association or representation of persons in negotiating, fixing, maintaining, changing, or arranging the terms and conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "The dispute between Citibank and El Toro is regarding the termination or non-renewal of contract services. Thus, a civil dispute. El Toro is an independent contractor and so there is no employer-employee relationship between Citibank and the security guard union. Therefore, there was no labor dispute and no right to strike against the bank. ",
+                        "children": 
+                    [                ]
+                    },
+                    {
+                        "name": "PAL v. NLRC",
+                        "url" : "https://jurisprudence.tech/labor-code-art-219/",
+                        "facts" : "Private respondents were flight attendants of PAL and were subsequently dismissed on the ground of their alleged involvement in a currency smuggling in Hong Kong. Thereafter, the respondents filed a petition with the NLRC praying for a TRO of the order of their dismissal or their temporary reinstatement. The NLRC, then, issued a temporary mandatory injunction enjoining PAL to cease and desist from enforcing such dismissal. Later, the NLRC denied PAL’s motion for reconsideration. Thus, this petition.",
+                        "issue" : "Whether or not a labor dispute existed between PAL and the respondent-flight attendants.",
+                        "ruling" : "No. Article 212 (1) of the Labor Code provides that “labor dispute” includes any controversy or matter concerning terms of conditions of employment or the association or representation of persons in negotiating, fixing, maintaining, changing, or arranging the terms and conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "The term 'labor dispute' is defined as any controversy or matter concerning terms and conditions of employment or the association or representation of persons in negotiating, fixing, maintaining, changing, or arranging the terms and conditions of employment regardless of whether or not the disputants stand in the proximate relation of employers and employees.",
+                        "children": 
+                    [                ]
+                    },
+                    {
+                        "name": "San Miguel Corporation Employees Union v. Bersamira",
+                        "url" : "https://jurisprudence.tech/labor-code-art-219/",
+                        "facts" : "SanMig entered into contracts for merchandising services with Lipercon and D’Rite. They did so in order to remain competitive in their line of business. It was agreed upon that there would be no employer-employee relation between the contractors and/or its workers, on the one hand, and SanMig on the other. Petitioner is the representative of the monthly paid rank-and-file employees of SanMig with whom the latter executed a CBA with. Petitioner then advised SanMig that some Lipercon and D’Rite workers had signed for union membership and sought the regularization of their employment with SMC. Petitioner alleged that this group of employees had been continuously working for SanMig for a period ranging from six months to fifteen years and that their work was neither casual nor seasonal and was desirable in the usual business or trade of SanMig. They demanded that they be regularized. ",
+                        "issue" : "W/N a labor dispute exists between the parties",
+                        "ruling" : "Yes. the dispute is about the working relationship between said employees vis-a-vis SanMig. The terms and conditions of their employment and arrangement of those terms are within the purview of a labor dispute. Since the case is indisputably linked with a labor dispute, jurisdiction belongs to the labor tribunals.",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Under the law, a labor dispute is defined as any controversy or matter concerning terms and conditions of employment or the association or representation of persons in negotiating, fixing, maintaining, changing, or arranging the terms and conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee",
+                        "children": 
+                    [                ]
+                    },
+                    {
+                        "name": "Penaranda v. Bagong Plywood Corp",
+                        "url" : "https://jurisprudence.tech/labor-code-art-219/",
+                        "facts" : "SanMig entered into contracts for merchandising services with Lipercon and D’Rite. They did so in order to remain competitive in their line of business. It was agreed upon that there would be no employer-employee relation between the contractors and/or its workers, on the one hand, and SanMig on the other. Petitioner is the representative of the monthly paid rank-and-file employees of SanMig with whom the latter executed a CBA with. Petitioner then advised SanMig that some Lipercon and D’Rite workers had signed for union membership and sought the regularization of their employment with SMC. Petitioner alleged that this group of employees had been continuously working for SanMig for a period ranging from six months to fifteen years and that their work was neither casual nor seasonal and was desirable in the usual business or trade of SanMig. They demanded that they be regularized. ",
+                        "issue" : "W/N a labor dispute exists between the parties",
+                        "ruling" : "Yes. the dispute is about the working relationship between said employees vis-a-vis SanMig. The terms and conditions of their employment and arrangement of those terms are within the purview of a labor dispute. Since the case is indisputably linked with a labor dispute, jurisdiction belongs to the labor tribunals.",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Managerial employees and members of the managerial staff are exempted from the provisions of the Labor Code on labor standards.",
+                        "children": 
+                    [                ]
+                    }
+                ]
                 },
                 {
                     "name": "Art. 224",
@@ -57,7 +106,20 @@
                     "details": "Jurisdiction of the Labor Arbiters and the Commission",
                     "children": 
                 [
-                
+                    {
+                        "name": "Cases",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Jurisdiction of the Labor Arbiters and the Commission",
+                        "children": 
+                    [
+                    
+                    ]
+                    }
                 ]
                 },
                 {
