@@ -22,7 +22,7 @@
         [
             {
                     "name": "Fundamental Principles",
-                    "url" : "",
+                    "url" : "https://jurisprudence.tech/labor-code-fundamental-principles/",
                     "facts" : "",
                     "issue" : "",
                     "ruling" : "",
@@ -181,7 +181,9 @@
                     [
                     
                     ]
-                    },
+                    }
+                ]
+            },
                     {
                         "name": "Art. 232",
                         "url" : "https://jurisprudence.tech/labor-code-art-232/",
@@ -225,8 +227,7 @@
                 [
                 
                 ]
-                }                                                                   
-        ]
+
         }
 ]
 }
