@@ -211,23 +211,23 @@
                     [
                     
                     ]
-                    }                                
+                    },
+                    {
+                        "name": "Art. 238",
+                        "url" : "",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "ARTICLE 238. [232] Prohibition on Certification Election.180 — The Bureau shall not entertain any petition for certification election or any other action which may disturb the administration of duly registered existing collective bargaining agreements affecting the parties except under Articles 253, 253-A and 256 of this Code.",
+                        "children": 
+                    [
+                    
+                    ]
+                }                                
                 ]
-                },
-                {
-                    "name": "Art. 238",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "ARTICLE 238. [232] Prohibition on Certification Election.180 — The Bureau shall not entertain any petition for certification election or any other action which may disturb the administration of duly registered existing collective bargaining agreements affecting the parties except under Articles 253, 253-A and 256 of this Code.",
-                    "children": 
-                [
-                
-                ]
+                }
 
-        }
 ]
 }
