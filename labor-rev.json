@@ -107,7 +107,7 @@
                     "children": 
                 [
                     {
-                        "name": "Cases",
+                        "name": "Jurisdiction of the Labor Arbiter",
                         "url" : "https://jurisprudence.tech/labor-code-art-224/",
                         "facts" : "",
                         "issue" : "",
@@ -117,7 +117,36 @@
                         "details": "Jurisdiction of the Labor Arbiters and the Commission",
                         "children": 
                     [
-                    
+                        {
+                            "name": "Pondoc v. NLRC",
+                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "facts" : "The petitioner asserts that the decision of the Labor Arbiter was already final and executory when the private respondent tried to defeat the judgment by asserting an alleged indebtedness of Andres Pondoc as a set-off, a claim not pleaded before the Labor Arbiter at any time before judgment, hence deemed waived. Moreover, the indebtedness did not evolve out of an employer-employee relationship, hence, purely civil in aspect.",
+                            "issue" : "Whether or not the NLRC may defeat the final judgement of the LA in this case",
+                            "ruling" : "No. Article 218(e) of the Labor Code does not provide blanket authority to the NLRC or any of its divisions to issue writs of injunction, while Rule XI of the New Rules of Procedure of the NLRC makes injunction only an ancillary remedy in ordinary labor disputes such as the one brought by the petitioner",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "Art. 218(e) of Labor Code not provide blanket authority to NLRC or any of its divisions to issue writs of injunction, while Rule XI of the New Rules of Procedure of the NLRC makes injunction only an Ancillary remedy in ordinary labor dispute",
+                            "children": 
+                        [
+                        
+                        ]
+                        },
+                        {
+                            "name": "Villamaria v. CA",
+                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "facts" : "The petitioner asserts that the decision of the Labor Arbiter was already final and executory when the private respondent tried to defeat the judgment by asserting an alleged indebtedness of Andres Pondoc as a set-off, a claim not pleaded before the Labor Arbiter at any time before judgment, hence deemed waived. Moreover, the indebtedness did not evolve out of an employer-employee relationship, hence, purely civil in aspect.",
+                            "issue" : "Whether or not the NLRC may defeat the final judgement of the LA in this case",
+                            "ruling" : "No. Article 218(e) of the Labor Code does not provide blanket authority to the NLRC or any of its divisions to issue writs of injunction, while Rule XI of the New Rules of Procedure of the NLRC makes injunction only an ancillary remedy in ordinary labor disputes such as the one brought by the petitioner",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "“Boundary-hulogan” basis does not extinguish employer-employee relationship. When the principal relief is to be granted under labor legislation or a collective bargaining agreement, the case falls within the exclusive jurisdiction of the Labor Arbiter and the NLRC even though a claim for damages might be asserted as an incident to such claim",
+                            "children": 
+                        [
+                        
+                        ]
+                        }                        
+                    ]
+                    }                    
                     ]
                     }
                 ]
