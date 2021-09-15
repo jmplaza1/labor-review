@@ -148,174 +148,174 @@
                     ]
                     }                    
                     ]
-                    }
-                ]
+                    },
+                    {
+                        "name": "Art. 225",
+                        "url" : "https://jurisprudence.tech/labor-code-article-225/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Powers of the Commission",
+                        "children": 
+                    [
+                    
+                    ]
+                    },     
+                    {
+                        "name": "Art. 227",
+                        "url" : "https://jurisprudence.tech/labor-code-article-227/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                        "children": 
+                    [
+                    
+                    ]
+                    },         
+                    {
+                        "name": "Art. 229",
+                        "url" : "https://jurisprudence.tech/labor-code-art-229/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Appeal",
+                        "children": 
+                    [
+                    
+                    ]
+                    },   
+                    {
+                        "name": "Art. 230",
+                        "url" : "https://jurisprudence.tech/labor-code-art-230/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "Execution of Decisions, Orders, or Awards. ",
+                        "children": 
+                    [
+                    
+                    ]
+                    },
+                    {
+                        "name": "Reliefs against Judgments/Decisions rendered by the Commission",
+                        "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                        {
+                            "name": "Petition for Certiorari under Rule 65",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                        [
+                        
+                        ]
+                        },
+                        {
+                            "name": "Appeal of the CA decision to the SC",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                        [
+                        
+                        ]
+                        }                    
+                    ]
+                    },  
+                    {
+                        "name": "Seafarer's Protection Act",
+                        "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
+                        "facts" : "",
+                        "issue" : "",
+                        "ruling" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    [
+                        {
+                            "name": "IRR DO No. 153-16",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                        [
+                        
+                        ]
+                        }
+                    ]
                 },
-                {
-                    "name": "Art. 225",
-                    "url" : "https://jurisprudence.tech/labor-code-article-225/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "Powers of the Commission",
-                    "children": 
-                [
-                
+                        {
+                            "name": "Art. 232",
+                            "url" : "https://jurisprudence.tech/labor-code-art-232/",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                        [
+                        
+                        ]
+                        },
+                        {
+                            "name": "Art. 233",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "ARTICLE 233. [227] Compromise Agreements. 176 — Any compromise settlement, including those involving labor standard laws, voluntarily agreed upon by the parties with the assistance of the Bureau or the regional office of the Department of Labor, shall be final and binding upon the parties. The National Labor Relations Commission or any court, shall not assume jurisdiction over issues involved therein except in case of non-compliance thereof or if there is prima facie evidence that the settlement was obtained through fraud, misrepresentation, or coercion.",
+                            "children": 
+                        [
+                        
+                        ]
+                        },
+                        {
+                            "name": "Art. 238",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "ARTICLE 238. [232] Prohibition on Certification Election.180 — The Bureau shall not entertain any petition for certification election or any other action which may disturb the administration of duly registered existing collective bargaining agreements affecting the parties except under Articles 253, 253-A and 256 of this Code.",
+                            "children": 
+                        [
+    
+    ]
+    }                       
                 ]
-                },     
-                {
-                    "name": "Art. 227",
-                    "url" : "https://jurisprudence.tech/labor-code-article-227/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
-                    "children": 
-                [
-                
-                ]
-                },         
-                {
-                    "name": "Art. 229",
-                    "url" : "https://jurisprudence.tech/labor-code-art-229/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "Appeal",
-                    "children": 
-                [
-                
-                ]
-                },   
-                {
-                    "name": "Art. 230",
-                    "url" : "https://jurisprudence.tech/labor-code-art-230/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "Execution of Decisions, Orders, or Awards. ",
-                    "children": 
-                [
-                
-                ]
-                },
-                {
-                    "name": "Reliefs against Judgments/Decisions rendered by the Commission",
-                    "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "",
-                    "children": 
-                [
-                    {
-                        "name": "Petition for Certiorari under Rule 65",
-                        "url" : "",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "",
-                        "children": 
-                    [
-                    
-                    ]
-                    },
-                    {
-                        "name": "Appeal of the CA decision to the SC",
-                        "url" : "",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "",
-                        "children": 
-                    [
-                    
-                    ]
-                    }                    
-                ]
-                },  
-                {
-                    "name": "Seafarer's Protection Act",
-                    "url" : "https://jurisprudence.tech/reliefs-against-judgments-decisions-rendered-by-the-commission/",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
-                    "details": "",
-                    "children": 
-                [
-                    {
-                        "name": "IRR DO No. 153-16",
-                        "url" : "",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "",
-                        "children": 
-                    [
-                    
-                    ]
-                    }
-                ]
-            },
-                    {
-                        "name": "Art. 232",
-                        "url" : "https://jurisprudence.tech/labor-code-art-232/",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "",
-                        "children": 
-                    [
-                    
-                    ]
-                    },
-                    {
-                        "name": "Art. 233",
-                        "url" : "",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "ARTICLE 233. [227] Compromise Agreements. 176 — Any compromise settlement, including those involving labor standard laws, voluntarily agreed upon by the parties with the assistance of the Bureau or the regional office of the Department of Labor, shall be final and binding upon the parties. The National Labor Relations Commission or any court, shall not assume jurisdiction over issues involved therein except in case of non-compliance thereof or if there is prima facie evidence that the settlement was obtained through fraud, misrepresentation, or coercion.",
-                        "children": 
-                    [
-                    
-                    ]
-                    },
-                    {
-                        "name": "Art. 238",
-                        "url" : "",
-                        "facts" : "",
-                        "issue" : "",
-                        "ruling" : "",
-                        "significance" : "",
-                        "correlation" : "",
-                        "details": "ARTICLE 238. [232] Prohibition on Certification Election.180 — The Bureau shall not entertain any petition for certification election or any other action which may disturb the administration of duly registered existing collective bargaining agreements affecting the parties except under Articles 253, 253-A and 256 of this Code.",
-                        "children": 
-                    [
-
-]
-}                                
+                }                            
 ]
 }
