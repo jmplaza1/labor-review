@@ -569,7 +569,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "The intention of the lawmakers to make the bond an indispensable requisite for the perfection of an appeal by the employer is underscored by the provision that an appeal by the employer may be perfected ‘only upon the posting of a cash or surety bond.’ The word ‘only’ makes it perfectly clear, that the lawmakers intended the posting of a cash or surety bond by the employer to be the exclusive means by which an employer's appeal may be perfected. The requirement is intended to discourage employers from using an appeal to delay, or even evade, their obligation to satisfy their employees' just and lawful claims.|||",
                             "children": 
                         [
                         
@@ -583,7 +583,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "Insofar as appeals from decisions of the Labor Arbiter are concerned, Article 223 of the Labor Code of the Philippines  provides that, ‘(d)ecisions, awards, or orders of the Labor Arbiter are final and executory unless appealed to the [NLRC] by any or both parties within ten (10) calendar days from the receipt of such decisions, awards or orders.’ In case of a judgment involving a monetary award, the same provision mandates that, ‘an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the [NLRC] in the amount equivalent to the monetary award in the judgment appealed from.",
                             "children": 
                         [
                         
@@ -597,10 +597,23 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "As a general rule, the government and all the attached agencies with no legal personality distinct from the former are exempt from posting appeal bonds, whereas government-owned and controlled corporations (GOCCs) are not similarly exempted. This distinction is brought about by the very reason of the appeal bond itself: to protect the presumptive judgment creditor against the insolvency of the presumptive judgment debtor. When the State litigates, it is not required to put up an appeal bond because it is presumed to be always solvent. This exemption, however, does not, as a general rule, apply to GOCCs for the reason that the latter has a personality distinct from its shareholders. Thus, while a GOCC's majority stockholder, the State, will always be presumed solvent, the presumption does not necessarily extend to the GOCC itself. ",
                             "children": 
                         [
-                        
+                            {
+                                "name": "Exception to the Exception",
+                                "url" : "https://jurisprudence.tech/labor-code-art-229/",
+                                "facts" : "",
+                                "issue" : "",
+                                "ruling" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "However, when a GOCC becomes a ‘government machinery to carry out a declared government policy,’ it becomes similarly situated as its majority stockholder as there is the assurance that the government will necessarily fund its primary functions. Thus, a GOCC that is sued in relation to its governmental functions may be, under appropriate circumstances, exempted from the payment of appeal fees.",
+                                "children": 
+                            [
+                            
+                            ]
+                            }
                         ]
                         },
                         {
