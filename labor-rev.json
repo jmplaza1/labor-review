@@ -1503,7 +1503,7 @@
                                     "ruling" : "",
                                     "significance" : "",
                                     "correlation" : "",
-                                    "details": "Yes, the compromise agreement was valid even if entered into after a final judgment. The Court noted that Article 2040 impliedly allowed such agreements; there was no limitation as to when these should be entered into.  In Jesalva v. Bautista, the court upheld a compromise agreement that covered cases pending trial, on appeal, and with final judgment. Further, the validity of the agreement is determined by compliance with the requisites and principles of contracts, not by when it was entered into. In this case, petitioners voluntarily entered into the compromise agreement, as shown by the following facts: (1) they signed respondents Manifestation (filed with the labor arbiter) that the judgment award had been satisfied; (2) they executed a Joint Affidavit dated May 5, 1997, attesting to the receipt of payment and the waiver of all other benefits due them; and (3) 6 of the 8 petitioners filed a Manifestation with the labor arbiter on October 20, 1997, requesting that the cases be terminated because of their receipt of payment in full satisfaction of their claims. These circumstances also reveal that respondent has  already complied with its obligation pursuant to the compromise agreement. Having already benefited from the agreement, estoppel bars petitioners from challenging it. ",
+                                    "details": "Yes, the compromise agreement was valid even if entered into after a final judgment. The Court noted that Article 2040 impliedly allowed such agreements; there was no limitation as to when these should be entered into.  In Jesalva v. Bautista, the court upheld a compromise agreement that covered cases pending trial, on appeal, and with final judgment. Further, the validity of the agreement is determined by compliance with the requisites and principles of contracts, not by when it was entered into. ",
                                     "children": 
                                 [
                                 
@@ -1517,10 +1517,23 @@
                                     "ruling" : "",
                                     "significance" : "",
                                     "correlation" : "",
-                                    "details": "No, absence of their counsel and the labor arbiter when they executed the waiver does invalidates the quitclaim. Under the NLRC’s New Rules of Procedure, should the parties arrive at any agreement as to the whole or any part of the dispute, the same shall be reduced to writing and signed by the parties and their respective counsel, or authorized representative, if any, before the Labor Arbiter. The settlement shall be approved by the Labor Arbiter after being satisfied that it was voluntarily entered into by the parties and after having explained to them the terms and consequences thereof. A compromise agreement entered into by the parties not in the presence of the Labor Arbiter before whom the case is pending shall be approved by him, if after confronting the parties, particularly the complainants, he is satisfied that they understand the terms and conditions of the settlement and that it was entered into freely and voluntarily by them and the agreement is not contrary to law, morals, and public policy. ",
+                                    "details": "No, absence of their counsel and the labor arbiter when they executed the waiver does invalidates the quitclaim. Under the NLRC’s New Rules of Procedure, should the parties arrive at any agreement as to the whole or any part of the dispute, the same shall be reduced to writing and signed by the parties and their respective counsel, or authorized representative, if any, before the Labor Arbiter. The settlement shall be approved by the Labor Arbiter after being satisfied that it was voluntarily entered into by the parties and after having explained to them the terms and consequences thereof.",
                                     "children": 
                                 [
-                                
+                                    {
+                                        "name": "Remedy when the Labor Arbiter is Absent",
+                                        "url" : "",
+                                        "facts" : "",
+                                        "issue" : "",
+                                        "ruling" : "",
+                                        "significance" : "",
+                                        "correlation" : "",
+                                        "details": "A compromise agreement entered into by the parties not in the presence of the Labor Arbiter before whom the case is pending shall be approved by him, if after confronting the parties, particularly the complainants, he is satisfied that they understand the terms and conditions of the settlement and that it was entered into freely and voluntarily by them and the agreement is not contrary to law, morals, and public policy.  The labor arbiters absence when the waivers were executed was remedied upon compliance with this procedure. 0",
+                                        "children": 
+                                    [
+                                    
+                                    ]
+                                    }
                                 ]
                                 }
                             ]
