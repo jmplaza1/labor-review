@@ -1432,12 +1432,12 @@
                             {
                                 "name": "Abbot Laboratories v. Abbot Laboratories",
                                 "url" : "https://jurisprudence.tech/labor-code-art-232/",
-                                "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "facts" : "Abbott Laboratories Employees Union, herein respondent union, applied for union registration with the Bureau of Labor Relations (BLR). The same was approved but was, however, cancelled, on motion of petitioner, by the Regional Director of the BLR on the ground of absence of common interest among the rank and file employees in the manufacturing unit to justify the formation of a separate bargaining unit.  An appeal was made to the Secretary of Labor who referred the same back to the Director of the BLR. On June 21, 1996, the assailed decision was reversed by the BLR and a motion for reconsideration was denied on July 9, 1997. Undaunted, petitioner elevated the case to the Secretary of Labor, who in a letter addressed to petitioner's counsel, refused to act thereon on the ground that it had no jurisdiction over decisions rendered on appeal by the BLR in cancellation cases. Hence, the instant petition. ",
+                                "issue" : "WON The Secretary of Labor and Employment has jurisdiction to entertain the appeal of ABBOTT",
+                                "ruling" : "NO.",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "The appellate jurisdiction of the Secretary of Labor and Employment is limited only to a review of cancellation proceedings decided by the Bureau of Labor Relations in the exercise of its exclusive and original jurisdiction. The Secretary of Labor and Employment has no jurisdiction over decisions of the Bureau of Labor Relations rendered in the exercise of its appellate power to review the decision of the Regional Directors in a petition to cancel the union's certificate of registration, said decisions being final and unappealable.",
                                 "children": 
                             [
                             
@@ -1487,15 +1487,42 @@
                             {
                                 "name": "Magbuana v. Uy",
                                 "url" : "",
-                                "facts" : "",
-                                "issue" : "",
+                                "facts" : "Petitioners filed before the LA a complaint against Uy. LA ruled in favor of the petitioners. Thereafter, petitioners filed a Motion for Issuance of Writ of Execution while Uy filed a Manifestation requesting that the cases be terminated and closed, stating that the judgment award as computed had been complied with to the satisfaction of [petitioners]. Said Manifestation was also signed by the eight (8) [petitioners]. Together with the Manifestation is a Joint Affidavit dated May 5, 1997 of [petitioners], attesting to the receipt of payment from [respondent] and waiving all other benefits due them in connection with their complaint.",
+                                "issue" : "(1) Whether the compromise agreement was valid even if entered into after a final judgment; (2) Whether the absence of their counsel and the labor arbiter when they executed the waiver invalidates the quitclaim",
                                 "ruling" : "",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "Rights may be waived through a compromise agreement, notwithstanding a final judgment that has already settled the rights of the contracting parties. To be binding, the compromise must be shown to have been voluntarily, freely and intelligently executed by the parties, who had full knowledge of the judgment. Furthermore, it must not be contrary to law, morals, good customs and public policy.",
                                 "children": 
                             [
-                            
+                                {
+                                    "name": "Issue 1: Whether the compromise agreement was valid even if entered into after a final judgment",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "Yes, the compromise agreement was valid even if entered into after a final judgment. The Court noted that Article 2040 impliedly allowed such agreements; there was no limitation as to when these should be entered into.  In Jesalva v. Bautista, the court upheld a compromise agreement that covered cases pending trial, on appeal, and with final judgment. Further, the validity of the agreement is determined by compliance with the requisites and principles of contracts, not by when it was entered into. In this case, petitioners voluntarily entered into the compromise agreement, as shown by the following facts: (1) they signed respondents Manifestation (filed with the labor arbiter) that the judgment award had been satisfied; (2) they executed a Joint Affidavit dated May 5, 1997, attesting to the receipt of payment and the waiver of all other benefits due them; and (3) 6 of the 8 petitioners filed a Manifestation with the labor arbiter on October 20, 1997, requesting that the cases be terminated because of their receipt of payment in full satisfaction of their claims. These circumstances also reveal that respondent has  already complied with its obligation pursuant to the compromise agreement. Having already benefited from the agreement, estoppel bars petitioners from challenging it. ",
+                                    "children": 
+                                [
+                                
+                                ]
+                                },
+                                {
+                                    "name": "Issue 2: Whether the absence of their counsel and the labor arbiter when they executed the waiver invalidates the quitclaim",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "No, absence of their counsel and the labor arbiter when they executed the waiver does invalidates the quitclaim. Under the NLRC’s New Rules of Procedure, should the parties arrive at any agreement as to the whole or any part of the dispute, the same shall be reduced to writing and signed by the parties and their respective counsel, or authorized representative, if any, before the Labor Arbiter. The settlement shall be approved by the Labor Arbiter after being satisfied that it was voluntarily entered into by the parties and after having explained to them the terms and consequences thereof. A compromise agreement entered into by the parties not in the presence of the Labor Arbiter before whom the case is pending shall be approved by him, if after confronting the parties, particularly the complainants, he is satisfied that they understand the terms and conditions of the settlement and that it was entered into freely and voluntarily by them and the agreement is not contrary to law, morals, and public policy. ",
+                                    "children": 
+                                [
+                                
+                                ]
+                                }
                             ]
                             },
                             {
