@@ -679,7 +679,7 @@
                             "ruling" : "",
                             "significance" : "payment of accrued salaries pending appeal before the NLRC",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "It is obligatory on the part of the employer to reinstate and pay the wages of the dismissed employee during the period of appeal until reversal by the higher court or tribunal. It likewise settled the view that the Labor Arbiters order of reinstatement is immediately executory and the employer has to either re-admit them to work under the same terms and conditions prevailing prior to their dismissal, or to reinstate them in the payroll, and that failing to exercise the options in the alternative, employer must pay the employees salaries.",
                             "children": 
                         [
                         
@@ -692,7 +692,7 @@
                             "issue" : "",
                             "ruling" : "",
                             "significance" : "",
-                            "correlation" : "",
+                            "correlation" : "The Labor Code provides a ten (10)-day period from receipt of the decision of the Arbiter for the filing of an appeal together with an appeal bond if the decision involves a monetary award in favor of the employees. In case of a judgment involving a monetary award, an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the Commission in the amount equivalent to the monetary award in the judgment appealed from.",
                             "details": "Appeal",
                             "children": 
                         [
@@ -705,9 +705,9 @@
                             "facts" : "",
                             "issue" : "",
                             "ruling" : "",
-                            "significance" : "",
+                            "significance" : "Relaxation of the rule in relation to the reglamentary period for filing of an appeal",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "The provision of Article 223 (now 229) of the Labor Code requiring the posting of bond on appeals involving monetary awards must be given liberal interpretation in line with the desired objective of resolving controversies on the merits. If only to achieve substantial justice, strict observance of the reglementary periods may be relaxed if warranted.",
                             "children": 
                         [
                         
@@ -721,10 +721,23 @@
                             "ruling" : "",
                             "significance" : "accrued wages",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "Payment of accrued wages despite reversal of decision: An employer, who, despite the Labor Arbiter’s order of reinstatement, did not reinstate the employee during the pendency of the appeal up to the reversal by a higher tribunal may still be held liable for the accrued wages of the employee, i.e., the unpaid salary accruing up to the time the higher tribunal reverses the decision. The rule, therefore, is that an employee may still recover the accrued wages up to and despite the reversal by the higher tribunal. This entitlement of the employee to the accrued wages proceeds from the immediate and self-executory nature of the reinstatement aspect of the LA’s decision. ",
                             "children": 
                         [
-                        
+                            {
+                                "name": "Exception",
+                                "url" : "https://jurisprudence.tech/labor-code-art-229/",
+                                "facts" : "",
+                                "issue" : "",
+                                "ruling" : "",
+                                "significance" : "accrued wages",
+                                "correlation" : "",
+                                "details": "By way of exception to the above rule, an employee may be barred from collecting the accrued wages if shown that the delay in enforcing the reinstatement pending appeal was without fault on the part of the employer. To determine whether an employee is thus barred, two tests must be satisfied: (1) actual delay or the fact that the order of reinstatement pending appeal was not executed prior to its reversal; and (2) the delay must not be due to the employer’s unjustified act or omission. Note that under the second test, the delay must be without the employer’s fault. If the delay is due to the employer’s unjustified refusal, the employer may still be required to pay the salaries notwithstanding the reversal of the LA’s decision. ",
+                                "children": 
+                            [
+                            
+                            ]
+                            }
                         ]
                         },
                         {
