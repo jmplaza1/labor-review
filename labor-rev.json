@@ -1636,8 +1636,8 @@
                                 "name": "Philippine Journalists Inc., v. NLRC",
                                 "url" : "",
                                 "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "issue" : "Whether the compromise agreement entered into by the parties mooted the NLRC resolution finding that the union members had been illegally dismissed.",
+                                "ruling" : "No. Contrary to the allegation of petitioners, the execution and subsequent approval by the NLRC of the agreement forged between it and the respondent Union did not render the NLRC resolution ineffectual, nor rendered it ‘moot and academic.’ The agreement becomes part of the judgment of the court or tribunal, and as a logical consequence, there is an implicit waiver of the right to appeal. In any event, the compromise agreement cannot bind a party who did not voluntarily take part in the settlement itself and gave specific individual consent. It must be remembered that a compromise agreement is also a contract; it requires the consent of the parties, and it is only then that the agreement may be considered as voluntarily entered into.",
                                 "significance" : "",
                                 "correlation" : "",
                                 "details": "A compromise agreement becomes part of the judgment of the court or tribunal, and as a logical consequence, there is an implicit waiver of the right to appeal. Thus, the execution and subsequent approval by the NLRC of the compromise agreement forged between the parties did not render the NLRC resolution ineffectual, nor rendered it moot and academic.",
@@ -1650,42 +1650,136 @@
                                 "name": "Periquet v. NLRC",
                                 "url" : "",
                                 "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "issue" : "Whether or not the NLRC erred in setting aside the order of the writ of execution and notice of garnishment?",
+                                "ruling" : "No. Not all waivers and quitclaims are invalid as against public policy. If the agreement was voluntarily entered into and represents a reasonable settlement, it is binding on the parties and may not later be disowned simply because of a change of mind. It is only where there is clear proof that the waiver was wangled from an unsuspecting or gullible person, or the terms of settlement are unconscionable on its face, that the law will step in to annul the questionable transaction. But where it is shown that the person making the waiver did so voluntarily, with full understanding of what he was doing, and the consideration for the quitclaim is credible and reasonable, the transaction must be recognized as a valid and binding undertaking.",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "Where an employee was ordered reinstated but instead of demanding it she entered into a compromise not to be reinstated and accepted a sum of money as backpay, she cannot several years later attach the validity thereof.",
                                 "children": 
                             [
-                            
+                                {
+                                    "name": "Validity of Quitclaims",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "Not all waivers and quitclaims are invalid as against public policy. If the agreement was voluntarily entered into and represents a reasonable settlement, it is binding on the parties and may not later be disowned simply because of a change of mind. It is only where there is clear proof that the waiver was wangled from an unsuspecting or gullible person, or the terms of settlement are unconscionable on its face, that the law will step in to annul the questionable transaction. But where it is shown that the person making the waiver did so voluntarily, with full understanding of what he was doing, and the consideration for the quitclaim is credible and reasonable, the transaction must be recognized as a valid and binding undertaking.",
+                                    "children": 
+                                [
+                                
+                                ]
+                                }
                             ]
                             },
                             {
                                 "name": "Aujero v. Philcomsat",
                                 "url" : "",
-                                "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "facts" : "In 1967, Petitioner Hypte Aujero started working for the respondent company Philippine Communications Satellite Corporation (Philcomsat) as an Accountant. After 34 years of service, he applied for an early retirement which was approved. This entitled Aujero to receive his retirement benefits at a rate equivalent to one and a half of his monthly salary for every year of service. At that time, the petitioner was Philcomsat's Senior Vice-President, the petitioner executed a Deed of Release and Quitclaim in Philcomsat's favor. Almost three (3) years thereafter, the petitioner filed a complaint for unpaid retirement benefits, claiming that the actual amount of his retirement pay is (P14,015,055.00) and the P9,439,327.91 he received from Philcomsat as supposed settlement for all his claims is unconscionable, which is more than enough reason to declare his quitclaim as null and void.",
+                                "issue" : "Whether or not the quitclaim executed by the petitioner in Philcomsat’s favor is valid thereby foreclosing his right to institute any claim against Philcomsat?",
+                                "ruling" : "While the law looks with disfavor upon releases and quitclaims by employees who are inveigled or pressured into signing them by unscrupulous employers seeking to evade their legal responsibilities, a legitimate waiver representing a voluntary settlement of a laborer's claims should be respected by the courts as the law between the parties. Considering the petitioner's claim of fraud and bad faith against Philcomsat to be unsubstantiated, this Court finds the quitclaim in dispute to be legitimate waiver.",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "Absent any evidence that any of the vices of consent is present and considering the petitioner's position and education, the quitclaim executed by the petitioner constitutes a valid and binding agreement.",
+                                "children": 
+                            [
+                                {
+                                    "name": "On Employee's Educational Background and Employment Stature ",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "The petitioner's educational background and employment stature render it improbable that he was pressured, intimidated or inveigled into signing the subject quitclaim. This Court cannot permit the petitioner to relieve himself from the consequences of his act, when his knowledge and understanding thereof is expected. Also, the period of time that the petitioner allowed to lapse before filing a complaint to recover the supposed deficiency in his retirement pay clouds his motives, leading to the reasonable conclusion that his claim of being aggrieved is a mere afterthought, if not a mere pretension.",
+                                    "children": 
+                                [
+                                
+                                ]
+                                }  
+                            ]
+                            },
+                            {
+                                "name": "Carolina’s Lace Shoppe v. Maquilan",
+                                "url" : "",
+                                "facts" : "In 2005 and 2007, Gloria Maquilan (Gloria) and Joy Maquilan (Joy) were employed by Carolina's Lace Shoppe (CLS) as sales clerk and beader, respectively. Upon inspection by the DOLE, one of the latter's employees, Santiago A. Espultero (Espultero) told the labor inspector that he was receiving a daily wage of P250.00. Thereafter, Espultero was terminated from his employment by CLS. One month Thereafter, Gloria was dismissed from the service for no reason given. Like Espultero, she was allegedly made to sign a quitclaim in order to claim her separation pay amounting to P15,000.00 despite her three years in service. Gloria then filed a case for illegal dismissal with money claims and damages against CLS. In defense, CLS averred that Gloria voluntarily executed a quitclaim and that she offered no evidence which depicted that force or fraud was employed in the execution thereof.",
+                                "issue" : "Whether or not there is merit to the defense of CLS?",
+                                "ruling" : "No. Admittedly, the quitclaim does not indicate that Gloria received the amount of P15,000.00 as full and final settlement. Similarly, there was nothing which indicates that said amount constitutes said full and final settlement. The quitclaim was also couched in general terms and the tenor of the same does not show that Gloria understood the importance of the same considering that on the same day that she resigned, she immediately relieved respondents from their liabilities. There was also no indication that Gloria intends to give up her claimed benefits in consideration of a fixed compromise amount. It must be emphasized that Gloria was constrained to receive the amount of P15,000.00 as she was eight months pregnant at that time and lives with no other means aside from her employment with CLS.",
                                 "significance" : "",
                                 "correlation" : "",
                                 "details": "",
                                 "children": 
                             [
-                            
-                            ]
-                            },
-                            {
-                                "name": "Carolina’s Lace Shoppe v. Maquilan",
+                                {
+                                    "name": "What Quitclaims and Waivers Should Contain",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                [
+                                    {
+                                        "name": "(1)",
+                                        "url" : "",
+                                        "facts" : "",
+                                        "issue" : "",
+                                        "ruling" : "",
+                                        "significance" : "",
+                                        "correlation" : "",
+                                        "details": "A fixed amount as full and final compromise settlement",
+                                        "children": 
+                                    [
+                
+                                   ]
+                                   } ,
+                                   {
+                                    "name": "(2)",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "The benefits of the employees if possible with the corresponding amounts, which the employees are giving up in consideration of the fixed compromise amount",
+                                    "children": 
+                                [
+            
+                               ]
+                               } ,
+                               {
+                                "name": "(3)",
                                 "url" : "",
                                 "facts" : "",
                                 "issue" : "",
                                 "ruling" : "",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "A statement that the employer has clearly explained to the employee in English, Filipino, or in the dialect known to the employees, that by signing the waiver or quitclaim, they are forfeiting or relinquishing their right to receive the benefits which are due them under the law",
                                 "children": 
                             [
-                            
+        
+                           ]
+                           } ,
+                           {
+                            "name": "(4) ",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "A statement that the employees signed and executed the document voluntarily, and had fully understood the contents of the document and that their consent was freely given without any threat, violence, duress, intimidation, or undue influence exerted on their person.",
+                            "children": 
+                        [
+    
+                       ]
+                       }                                                                                                          
+                               ]
+                               }                              
                             ]
                             }                                                                                                                                                                                                                            
                         ]
