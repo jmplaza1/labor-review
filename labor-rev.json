@@ -1803,7 +1803,7 @@
                                 "ruling" : "",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "ARTICLE 264. [253] Duty to Bargain Collectively When There Exists a Collective Bargaining Agreement.— When there is a collective bargaining agreement, the duty to bargain collectively shall also mean that neither party shall terminate nor modify such agreement during its lifetime. However, either party can serve a written notice to terminate or modify the agreement at least sixty (60) days prior to its expiration date. It shall be the duty of both parties to keep the status quo and to continue in full force and effect the terms and conditions of the existing agreement during the 60-day period and/or until a new agreement is reached by the parties.||| (Labor Code of the Philippines, Presidential Decree No. 442 (Amended & Renumbered), [July 21, 2015])",
                                 "children": 
                             [
         
@@ -1817,7 +1817,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "ARTICLE 265. [253-A] Terms of a Collective Bargaining Agreement.207 — Any Collective Bargaining Agreement that the parties may enter into shall, insofar as the representation aspect is concerned, be for a term of five (5) years. No petition questioning the majority status of the incumbent bargaining agent shall be entertained and no certification election shall be conducted by the Department of Labor and Employment outside of the sixty-day period immediately before the date of expiry of such five-year term of the Collective Bargaining Agreement. All other provisions of the Collective Bargaining Agreement shall be renegotiated not later than three (3) years after its execution. Any agreement on such other provisions of the Collective Bargaining Agreement entered into within six (6) months from the date of expiry of the term of such other provisions as fixed in such Collective Bargaining Agreement, shall retroact to the day immediately following such date. If any such agreement is entered into beyond six months, the parties shall agree on the duration of retroactivity thereof. In case of a deadlock in the renegotiation of the Collective Bargaining Agreement, the parties may exercise their rights under this Code.||| (Labor Code of the Philippines, Presidential Decree No. 442 (Amended & Renumbered), [July 21, 2015])",
                             "children": 
                         [
     
@@ -1831,10 +1831,23 @@
                         "ruling" : "",
                         "significance" : "",
                         "correlation" : "",
-                        "details": "",
+                        "details": "ARTICLE 268. [256] Representation Issue in Organized Establishments. 211 — In organized establishments, when a verified petition questioning the majority status of the incumbent bargaining agent is filed by any legitimate labor organization including a national union or federation which has already issued a charter certificate to its local chapter participating in the certification election or a local chapter which has been issued a charter certificate by the national union or federation before the Department of Labor and Employment within the sixty (60)-day period before the expiration of the collective bargaining agreement, the Med-Arbiter shall automatically order an election by secret ballot when the verified petition is supported by the written consent of at least twenty-five percent (25%) of all the employees in the bargaining unit to ascertain the will of the employees in the appropriate bargaining unit. To have a valid election, at least a majority of all eligible voters in the unit must have cast their votes. The labor union receiving the majority of the valid votes cast shall be certified as the exclusive bargaining agent of all the workers in the unit. When an election which provides for three or more choices results in no choice receiving a majority of the valid votes cast, a run-off election shall be conducted between the labor unions receiving the two highest number of votes: Provided,That the total number of votes for all contending unions is at least fifty percent (50%) of the number of votes cast. In cases where the petition was filed by a national union or federation, it shall not be required to disclose the names of the local chapter's officers and members.",
                         "children": 
                     [
-
+                        {
+                            "name": "Articles 256, par 2.",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "At the expiration of the freedom period, the employer shall continue to recognize the majority status of the incumbent bargaining agent where no petition for certification election is filed.",
+                            "children": 
+                        [
+    
+                       ]
+                       }
                    ]
                    },                                                                               
                             {
