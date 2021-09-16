@@ -164,7 +164,34 @@
                             "details": "",
                             "children": 
                         [
-                        
+                            {
+                                "name": "Limitation 1",
+                                "url" : "https://jurisprudence.tech/labor-code-fundamental-principles/",
+                                "facts" : "",
+                                "issue" : "",
+                                "ruling" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "Protection of labor and resolution of doubts in favor of labor cannot be pursued to deliberately commit a miscarriage of justice. The right to obtain justice is enjoyed by all members of society, rich or poor, worker or manager, alien or citizen",
+                                "children": 
+                            [
+                            
+                            ]
+                            },
+                            {
+                                "name": "Limitation 2",
+                                "url" : "https://jurisprudence.tech/labor-code-fundamental-principles/",
+                                "facts" : "",
+                                "issue" : "",
+                                "ruling" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "The law also recognized that management has rights, which are also entitled to respect and enforcement in the interest of fair play.",
+                                "children": 
+                            [
+                            
+                            ]
+                            }                             
                         ]
                         }   ,
                         {
@@ -295,9 +322,131 @@
                         [
                         
                         ]
-                        }                        
+                        },
+                        {
+                            "name": "Mendoza v. Officers of Manila Water Employee’s Union",
+                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "facts" : "",
+                            "issue" : "Whether or not it was an inter/intra union dispute, hence the LA had no jurisdiction.",
+                            "ruling" : "No. An intra-union dispute refers to any conflict between and among union members, including grievances arising from any violation of the rights and conditions of membership, violation of or disagreement over any provision of the union’s constitution and by-laws, or disputes arising from chartering or disaffiliation of the union. However, petitioner’s charge of unfair labor practices falls within the original and exclusive jurisdiction of the Labor Arbiters, pursuant to Article 217 of the Labor Code. In addition, Article 247 of the same Code provides that ‘the civil aspects of all cases involving unfair labor practices, which may include claims for actual, moral, exemplary and other forms of damages, attorney’s fees and other affirmative relief, shall be under the jurisdiction of the Labor Arbiters.’ In this case, when an MWEU member is suspended, he is given right to appeal the suspension. However, Mendoza’s appeal was not given credit. Hence they are guilty of ULP.",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "Cases of ULP disputes fall under the jurisdiction of the LA",
+                            "children": 
+                        []
+                        }                                                
                     ]
-                    }                    
+                    },
+                    {
+                        "name": "Termination Dispute",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Termination Dispute",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Damages",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Arts. 128, 129, 224",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "As to OFWs",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "As to GOCCs",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "With Foreign Element",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Reasonable Causal Connection",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Refund of Employment Bond",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    },
+                    {
+                        "name": "Prescription of Action",
+                        "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                        "facts" : "",
+                        "issue" : "",
+                        "significance" : "",
+                        "correlation" : "",
+                        "details": "",
+                        "children": 
+                    []
+                    }                                                                                                                                                                                                                                      
                     ]
                     },
                     {
