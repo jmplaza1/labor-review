@@ -692,8 +692,8 @@
                             "issue" : "",
                             "ruling" : "",
                             "significance" : "",
-                            "correlation" : "The Labor Code provides a ten (10)-day period from receipt of the decision of the Arbiter for the filing of an appeal together with an appeal bond if the decision involves a monetary award in favor of the employees. In case of a judgment involving a monetary award, an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the Commission in the amount equivalent to the monetary award in the judgment appealed from.",
-                            "details": "Appeal",
+                            "correlation" : "",
+                            "details": "The Labor Code provides a ten (10)-day period from receipt of the decision of the Arbiter for the filing of an appeal together with an appeal bond if the decision involves a monetary award in favor of the employees. In case of a judgment involving a monetary award, an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the Commission in the amount equivalent to the monetary award in the judgment appealed from.",
                             "children": 
                         [
                         
@@ -883,12 +883,12 @@
                         {
                             "name": "Garcia et al. v. PAL",
                             "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
+                            "facts" : "Petitioners-employees filed a complaint for illegal dismissal against respondent PAL who dismissed them after they were allegedly caught in the act of sniffing shabu within its premises. The Labor Arbiter ruled for the petitioners and ordered immediately for their reinstatement. Prior to the promulgation of LA’s decision, SEC had placed PAL under an Interim Rehabilitation Receiver, and subsequently under a Permanent Rehabilitation Receiver. The respondents appealed to the NLRC which reversed the LA’s decision and dismissed the petitioner's complaint. Subsequently, the Labor Arbiter issued a writ of execution for the reinstatement and issued a notice of garnishment. The Labor Tribunal affirmed the writ and notice but suspended and referred the action to the Rehabilitation Receiver of PAL. On appeal, CA found for respondent PAL.",
+                            "issue" : "Whether or not petitioners should be reinstated.",
+                            "ruling" : "No. It is settled that upon appointment by the SEC of a rehabilitation receiver, all actions for claims before any court, tribunal or board against the corporation shall ipso jure be suspended. As stated early on, during the pendency of petitioners’ complaint before the Labor Arbiter, the SEC placed PAL under an Interim Rehabilitation Receiver. After the Labor Arbiter rendered his decision, the SEC replaced the Interim Rehabilitation Receiver with a Permanent Rehabilitation Receiver.",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "While reinstatement pending appeal aims to avert the continuing threat or danger to the survival or even the life of the dismissed employee and his family, it does not contemplate the period when the employer-corporation itself is similarly in a judicially monitored state of being resuscitated in order to survive.",
                             "children": 
                         [
                         
@@ -902,7 +902,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "(1) Art. 223 of the Labor Code provides that reinstatement is immediately executory even pending appeal only when the Labor Arbiter himself ordered the reinstatement. (2) An illegally dismissed employee is entitled to two reliefs: backwages and reinstatement. The two reliefs provided are separate and distinct. In instances where reinstatement is no longer feasible because of strained relations between the employee and the employer, separation pay is granted",
                             "children": 
                         [
                         
@@ -911,12 +911,12 @@
                         {
                             "name": "Buenviaje v. CA",
                             "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
+                            "facts" : "Petitioners were former employees of Cottonway, hired as promo girls for their garment products. In 1994, after their services were terminated as the company was allegedly suffering business losses, petitioners filed with the NLRC a complaint for illegal dismissal. The Labor Arbiter issued a Decision finding petitioners' retrenchment valid and ordering Cottonway to pay petitioners' separation pay and their proportionate thirteenth month pay. On appeal, the NLRC reversed the Decision of the LA and ordered the reinstatement of petitioners without loss of seniority rights and other privileges. It also ordered Cottonway to pay petitioners their proportionate thirteenth month pay and their full backwages inclusive of allowances and other benefits, or their monetary equivalent computed from the time their salaries were withheld from them up to the date of their actual reinstatement. On appeal, the CA granted the petition and ruled that petitioners' reinstatement was no longer possible as they deliberately refused to return to work despite the notice given by Cottonway and that the amount of backwages due them should be computed only up to the time they received their notice of termination.",
+                            "issue" : "Whether or not the backwages should be computed from the time of their illegal dismissal until their actual reinstatement. ",
+                            "ruling" : "YES. ",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Under R.A. 6715, employees who are illegally dismissed are entitled to full backwages, inclusive of allowances and other benefits or their monetary equivalent, computed from the time their actual compensation was withheld from them up to the time of their actual reinstatement. ‘Full backwages’ mean exactly that, i.e., without deducting from backwages the earnings derived elsewhere by the concerned employee during the period of his illegal dismissal.",
                             "children": 
                         [
                         
