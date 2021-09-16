@@ -126,6 +126,7 @@
                         ]
                         }   ,
                         {
+
                             "name": "Equal work opportunities",
                             "url" : "https://jurisprudence.tech/labor-code-fundamental-principles/",
                             "facts" : "",
@@ -628,23 +629,23 @@
                     [
                         {
                             "name": "Art. 128",
-                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "url" : "https://jurisprudence.tech/labor-code-art-128/",
                             "facts" : "",
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Visitorial and Enforcement Power",
                             "children": 
                         []
                         },
                         {
                             "name": "Art. 129",
-                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "url" : "https://jurisprudence.tech/labor-code-art-129/",
                             "facts" : "",
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Recovery of Wages, Simple Money Claims and Other Benefits.",
                             "children": 
                         []
                         },
