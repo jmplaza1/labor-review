@@ -1542,14 +1542,40 @@
                                 "name": "Philippine Transmarine Carrier v. Pelagio",
                                 "url" : "",
                                 "facts" : "",
-                                "issue" : "",
+                                "issue" : "Whether or not the execution of the Satisfaction of Judgment between the parties rendered the certiorari proceedings before the CA moot and academic.",
                                 "ruling" : "",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "A compromise agreement is a contract whereby the parties, by making reciprocal concessions, avoid a litigation or put an end to one already commenced. To be considered valid and binding between the contracting parties, a compromise agreement must be: (a) not contrary to law, morals, good customs, public order, and public policy; (b) freely and intelligently executed by and between the parties; and (c) compliant with the requisites and principles of contracts.",
                                 "children": 
                             [
-                            
+                                {
+                                    "name": "Does a Compromise Agreement render a certiori proceeding moot and academic?",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "General Rule: Once the parties enter into a compromise agreement, it has the effect and the authority of res judicata upon the parties. In other words, a valid compromise agreement may render a pending case moot and academic. ",
+                                    "children": 
+                                [
+                                    {
+                                        "name": "Exception",
+                                        "url" : "",
+                                        "facts" : "",
+                                        "issue" : "",
+                                        "ruling" : "",
+                                        "significance" : "",
+                                        "correlation" : "",
+                                        "details": "However, the parties may opt to put therein clauses, conditions, and the like that would prevent a pending case from becoming moot and academic - such as when the execution of such agreement is without prejudice to the final disposition of the said case. After all, a compromise agreement is still a contract by nature, and as such, the parties are free to insert clauses to modify its legal effects, so long as such modifications are not contrary to law, morals, good customs, public order, or public policy.",
+                                        "children": 
+                                    [
+                                    
+                                    ]
+                                    }
+                                ]
+                                }
                             ]
                             },
                             {
