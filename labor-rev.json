@@ -328,12 +328,12 @@
                         {
                             "name": "Landbank of the Phils. v. Listana",
                             "url" : "https://jurisprudence.tech/labor-code-article-225/",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
+                            "facts" : "Severino Listana voluntarily offered to sell his land to the government through the Department of Agrarian Reform. After summary administrative proceedings, the Department of Agrarian Reform Adjudication Board (DARAB) set the just compensation of the land at P10,956,963.25 and ordered Land Bank Manager and Agrarian Operations Center Head Alex A. Lorayes (Lorayes) to pay Listana but he refused prompting Listana to file with the PARAD a motion for contempt against Lorayes. PARAD granted the motion for contempt, and later on directed the issuance of an arrest order against Lorayes. Land Bank filed a petition for injunction of the arrest order pending its petition for judicial determination of the amount of just compensation for the property. The RTC of Sorsogon, acting as Special Aggrarian Court, approved it. Listana filed a motion for reconsideration but it was denied by the court. He then filed a special civil action for certiorari with the Court of Appeals. The appellate court nullified the order of the trial court. Hence, this petition. ",
+                            "issue" : "Whether or not PARAD's citing Lorayes indirect contempt was valid.",
+                            "ruling" : "NO. According to the Supreme Court,  the contempt proceedings initiated through an unverified ‘Motion for Contempt’ filed by the Listana with the PARAD were invalid for the following reasons: First, the Rules of Court clearly require the filing of a verified petition with the Regional Trial Court, which was not complied with in this case. The charge was not initiated by the PARAD motu proprio, rather, it was by a motion filed by Listana. Second, neither the PARAD nor the DARAB have jurisdiction to decide the contempt charge filed by the respondent. The issuance of a warrant of arrest was beyond the power of the PARAD and the DARAB. Consequently, all the proceedings that stemmed from respondent’s ‘Motion for Contempt,’ specifically the Orders of the PARAD for the arrest of Alex A. Lorayes, are null and void.",
                             "significance" : "",
-                            "correlation" : "",
-                            "details": "",
+                            "correlation" : "", 
+                            "details": "Quasi-judicial agencies that have the power to cite persons for indirect contempt pursuant to Rule 71 of the Rules of Court can only do so by initiating them in the proper Regional Trial Court. It is not within their jurisdiction and competence to decide the indirect contempt cases. These matters are still within the province of the Regional Trial Courts.",
                             "children": 
                         [
                         
@@ -347,7 +347,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Under Article 218 the Labor Code, the NLRC (and the labor arbiters) may hold any offending party in contempt, directly or indirectly, and impose appropriate penalties in accordance with law. The penalty for direct contempt consists of either imprisonment or fine, the degree or amount depends on whether the contempt is against the Commission or the labor arbiter.  ",
                             "children": 
                         [
                         
@@ -361,7 +361,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "(1) As a rule, the filing of a motion for reconsideration is a condition sine qua non to the filing of a  petition for certiorari. The rationale for this requirement is that ‘the law intends to afford the tribunal, board or office an opportunity to rectify the errors and mistakes it may have lapsed into before resort to the courts of justice can be had.’ Notably, however, there are several recognized exceptions to the rule, one of which is when the order is a patent nullity. (2) Jurisprudence provides that in instances where there was neither dismissal by the employer nor abandonment by the employee, the proper remedy is to reinstate the employee to his former position but without the award of backwages.",
                             "children": 
                         [
                         
@@ -375,7 +375,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The term ‘grave abuse of discretion’ has a specific meaning. An act of a court or tribunal can only be considered as with grave abuse of discretion when such act is done in a ‘capricious or whimsical exercise of judgment as is equivalent to lack of jurisdiction.’ The abuse of discretion must be so patent and gross as to amount to an ‘evasion of a positive duty or to a virtual refusal to perform a duty enjoined by law, or to act at all in contemplation of law, as where the power is exercised in an arbitrary and despotic manner by reason of passion and hostility.’ ",
                             "children": 
                         [
                         
@@ -430,7 +430,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                            "details": "The right to appeal is a statutory right and one who seeks to avail of the right must comply with the statute or the rules. It is only in highly meritorious cases that this Court will opt not to strictly apply the rules and thus prevent a grave injustice from being done",
                             "children": 
                         [
                         
@@ -444,7 +444,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                            "details": "Dismissal of an appeal based on mere technicalities inconsistent to the constitutional mandate to protect labor. Article 227 of the Labor Code mandates that the Commission and its members and the Labor Arbiters shall use every and all reasonable means to ascertain the facts in each case speedily and objectively and without regard to technicalities of law or procedure, all in the interest of due process. A strict and rigid application, which would result in technicalities that tend to frustrate rather than promote substantial justice, should not be allowed.",
                             "children": 
                         [
                         
@@ -458,7 +458,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                            "details": "Article 227 of the Labor Code of the Philippines authorizes compromise agreements voluntarily agreed upon by the parties, in conformity with the basic policy of the State ‘to promote and emphasize the primacy of free collective bargaining and negotiations, including voluntary arbitration, mediation and conciliation, as modes of settling labor or industrial disputes. A compromise agreement is valid as long as the consideration is reasonable and  the employee signed the waiver voluntarily, with a full understanding of what he was entering into.",
                             "children": 
                         [
                         
@@ -472,7 +472,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                            "details": "We likewise cannot accept the compromise agreement's application ‘to all claims and damages or losses either party may have against each other whether those damages or losses are known or unknown, foreseen or unforeseen. This coverage is too sweeping and effectively excludes any claims by the respondents against the petitioners, including those that by law and jurisprudence cannot be waived without appropriate consideration such as nonpayment or underpayment of overtime pay and wages.",
                             "children": 
                         [
                         
@@ -486,7 +486,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Technical Rules Not Binding and Prior Resort to Amicable Settlement.",
+                            "details": "",
                             "children": 
                         [
                         
@@ -513,7 +513,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "Appeal",
+                            "details": "In case of a judgment involving a monetary award, an appeal by the employer may be perfected only upon the posting of a cash or surety bond issued by a reputable bonding company duly accredited by the Commission in the amount equivalent to the monetary award in the judgment appealed from.",
                             "children": 
                         [
                         
