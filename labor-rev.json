@@ -354,7 +354,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Petitioner cannot arrogate into the powers of Voluntary Arbitrators the original and exclusive jurisdiction of Labor Arbiters over unfair labor practices, termination disputes, and claims for damages, in the absence of an express agreement between the parties in order for Article 262 of the Labor Code to apply ",
                             "children": 
                         []
                         },
@@ -376,7 +376,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Under Art. 217, it is clear that a labor arbiter has original and exclusive jurisdiction over termination disputes. On the other hand, under Article 261, a voluntary arbitrator has original and exclusive jurisdiction over grievances arising from the interpretation or enforcement of company policies.",
                             "children": 
                         []
                         },
@@ -387,7 +387,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Labor Arbiter has jurisdiction over labor disputes that did not follow the procedure of grievance machinery of a company.",
                             "children": 
                         []
                         },
@@ -398,7 +398,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Labor Arbiter has jurisdiction over the case if it does not involve an ecclessiastical affair. The matter of terminating an employee, which is purely secular in nature, is different from the ecclesiastical act of expelling a member from the religious congregation.",
                             "children": 
                         []
                         },
@@ -420,7 +420,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "In a number of cases, it has been held that a corporate officer’s dismissal is always a corporate act, or an intra-corporate controversy so that the RTC should exercise jurisdiction.",
                             "children": 
                         []
                         },
@@ -431,7 +431,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The determination of the rights of a corporate officer dismissed from his employment, as well as the corresponding liability of a corporation, if any, is an intra-corporate dispute subject to the jurisdiction of the regular courts.",
                             "children": 
                         []
                         },
@@ -442,9 +442,32 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Two-tier test must be employed to determine whether an intra-corporate controversy exists in the present case, viz.: (a) the relationship test, and (b) the nature of the controversy test. ",
                             "children": 
-                        []
+                        [
+                            {
+                                "name": "Relationship Test",
+                                "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                "facts" : "",
+                                "issue" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "A dispute is considered an intra-corporate controversy under the relationship test when the relationship between or among the disagreeing parties is any one of the following: (a) between the corporation, partnership, or association and the public; (b) between the corporation, partnership, or association and its stockholders, partners, members, or officers; (c) between the corporation, partnership, or association and the State as far as its franchise, permit or license to operate is concerned; and (d) among the stockholders, partners, or associates themselves. ",
+                                "children": 
+                            []
+                            },
+                            {
+                                "name": "Controversy Test",
+                                "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                "facts" : "",
+                                "issue" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "Under the nature of the controversy test, the disagreement must not only be rooted in the existence of an intra-corporate relationship, but must as well pertain to the enforcement of the parties' correlative rights and obligations under the Corporation Code and the internal and intra-corporate regulatory rules of the corporation. If the relationship and its incidents are merely incidental to the controversy or if there will still be conflict even if the relationship does not exist, then no intra-corporate controversy exists.",
+                                "children": 
+                            []
+                            }
+                        ]
                         }
                     ]
                     },
@@ -465,7 +488,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "in Article 217 of the Labor Code embraces money claims which arise out of or in connection with the employer-employee relationship, or some aspect or incident of such relationship. The claim for recovery of a debt has no reasonable causal connection with any of the claims provided for in Article 217.",
                             "children": 
                         []
                         },
@@ -476,7 +499,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Art. 217. Jurisdiction of the Labor Arbiters and the Commission. The Labor Arbiter has jurisdiction over this issue and the case itself, involving as it does a claim arising from an employer-employee relationship.",
                             "children": 
                         []
                         },
@@ -487,17 +510,18 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The issue of deduction for tax purposes is intertwined with the main issue of whether or not petitioner's benefits have been fully given. It is, therefore, a money claim arising from the employer-employee relationship, which clearly falls within the jurisdiction of the Labor Arbiter and the NLRC.",
                             "children": 
                         []
-                        },                    {
+                        },                   
+                        {
                             "name": "World’s Best Gas v. Vital",
                             "url" : "https://jurisprudence.tech/labor-code-art-224/",
                             "facts" : "",
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Having no subject matter jurisdiction to resolve claims arising from employer-employee relations, the RTC's ruling on Vital's claim of P845,000.00 and P250,000.00 in unpaid salaries and separation pay is, thus, null and void, and therefore, cannot perpetuate even if affirmed on appeal.",
                             "children": 
                         []
                         },
@@ -508,7 +532,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Not every controversy or money claim by an employee against the employer or vice-versa is within the exclusive jurisdiction of the labor arbiter. Actions between employees and employers where the employer-employee relationship is merely incidental and the cause of action precedes from a different source of obligation is within the exclusive jurisdiction of the regular court.",
                             "children": 
                         []
                         },
@@ -519,7 +543,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "It must be stressed that not every controversy involving workers and their employers can be resolved only by LA. This will only be so if there is a reasonable causal connection between the claim asserted and EE-ER relationship to put the case under Art 217 of the Labor Code. Absent such connection, it will be cognizable by the regular courts of justice in the exercise of their civil and criminal jurisdiction. In this case, it involved a complaint for damages for malicious prosecution which was filed with RTC by employees of Pepsi. It doesn’t appear that there is a reasonable causal connection between the complaint and the relations of the parties as employer and employees. ",
                             "children": 
                         []
                         },
@@ -530,7 +554,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The Labor Arbiter has jurisdiction to award not only the reliefs provided by labor laws, but also damages governed by the Civil Code. However, it is important to distinguish cases of actions for damages where the employer-employee relationship is merely incidental and cases where the cause of action proceeds from a different source of obligation.",
                             "children": 
                         []
                         },
@@ -541,9 +565,21 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "An employer is allowed to withhold terminal pay and benefits pending the employee’s return of its properties. As a general rule, No employer, in his own behalf or in behalf of any person, shall make any deduction from the wages of his employees.",
                             "children": 
-                        []
+                        [
+                            {
+                                "name": "Exceptions",
+                                "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                "facts" : "",
+                                "issue" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "The following cases are considered exceptions: (1) In cases where the worker is insured with his consent by the employer, and the deduction is to recompense the employer for the amount paid by him as premium on the insurance; (2) For union dues, in cases where the right of the worker or his union to check-off has been recognized by the employer or authorized in writing by the individual worker concerned; and (3) In cases where the employer is authorized by law or regulations issued by the Secretary of Labor and Employment.",
+                                "children": 
+                            []
+                            }
+                        ]
                         },
                         {
                             "name": " Amecos Innovations v. Lopez",
@@ -552,7 +588,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Under Article 217(a)(4) of the Labor Code, claims for actual, moral, exemplary and other forms of damages arising from employer-employee relationship are under the jurisdiction of the Labor Arbiters or the National Labor Relations Commission.",
                             "children": 
                         []
                         },
@@ -563,7 +599,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "To determine whether a claim for damages is cognizable by the LA, the reasonable connection rule has been established which essentially states that the claim for damages must have reasonable causal connection with any of the claims provided for in Art 224 and the employer-employee relations. Absent such link the complaint is within the province of the regular courts.",
                             "children": 
                         []
                         },
@@ -574,7 +610,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Money claims that didn’t arise out of such relations was to be taken in by regular courts. The claims should have a causal connection with employer-employee relations. The complaint for damages wasn’t anchored on term of employee’s service but the effects of such term.",
                             "children": 
                         []
                         }
@@ -619,7 +655,7 @@
                             "issue" : "",
                             "significance" : "(DOLE can determine existence of EE Rel and summary on Articles 128, 129 and 224)",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The visitorial and enforcement power of the DOLE comes into play only ‘in cases when the relationship of employer-employee still exists.’ Necessarily, the DOLE’s power does not apply in two instances, namely: (a) where the employer-employee relationship has ceased; and (b) where no such relationship has ever existed. The law accords a prerogative to the NLRC over the claim when the employer-employee relationship has terminated or such relationship has not arisen at all.",
                             "children": 
                         []
                         },
@@ -630,7 +666,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The Labor Arbiter has jurisdiction to hear and decide cases where the aggregate money claims of each employee exceeds P5,000.00, said provisions of law do not contemplate nor cover the visitorial   and   enforcement   powers   of   the   Secretary   of   Labor   or   his   duly   authorized representatives. The visitorial and enforcement powers of the DOLE Regional Director to order and enforce compliance with labor standard laws can be exercised even where the individual claim exceeds P5,000",
                             "children": 
                         []
                         },
@@ -641,7 +677,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "To harmonize Articles 217 (a) (6), 19 129, 20 and 128 of the Labor Code, the Secretary of Labor should be deemed as clothed with plenary visitorial powers to order the inspection of all establishments where labor is employed, and to look into all possible violations of labor laws and regulations; but the power to hear and decide employees' claims exceeding P5,000.00 for each employee should be left to the Labor Arbiter as the exclusive repository of the power to hear and decide such claims. ",
                             "children": 
                         []
                         },
@@ -652,7 +688,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "NLRC does not have jurisdiction over intra-corporate disputes. ",
                             "children": 
                         []
                         }                                                 
@@ -675,7 +711,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The jurisdiction of labor arbiters is not limited to claims arising from employer-employee relationships, but also those by virtue of any law or contract involving Filipino workers for overseas deployment including claims for actual, moral, exemplary and other forms of damages.",
                             "children": 
                         []
                         },                    
@@ -686,9 +722,21 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The general rule is that Philippine laws apply even to overseas employment contracts. As an exception, the parties may agree that a foreign law shall govern the employment contract. ",
                             "children": 
-                        []
+                        [
+                            {
+                                "name": "Requisites for the Application of Foreign Law in Overseas Employment Contracts",
+                                "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                "facts" : "",
+                                "issue" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "The following are the requisites: (1) that it is expressly stipulated in the overseas employment contract that a specific foreign law shall govern; (2) that the foreign law invoked must be proven before the courts pursuant to the Philippines rules on evidence; (3) that the foreign law stipulated in the overseas employment contract must not be contrary to law, morals, good customs, public order, or public policy of the Philippines; and (4) that the overseas employment contract must be processed through the POEA.",
+                                "children": 
+                            []
+                            }
+                        ]
                         },                    
                         {
                             "name": "Ace Navigation v. Fernandez",
@@ -697,7 +745,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "It is settled that when the parties have validly agreed on a procedure for resolving grievances and to submit a dispute to voluntary arbitration then that procedure should be strictly observed. ",
                             "children": 
                         []
                         },                    
@@ -708,7 +756,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "With respect to disputes involving claims of Filipino seafarers wherein the parties are covered by a collective bargaining agreement, the dispute or claim should be submitted to the jurisdiction of a voluntary arbitrator or panel of arbitrators. It is only in the absence of a CBA that parties may opt to submit the dispute to either the NLRC or to voluntary arbitration.",
                             "children": 
                         []
                         }
@@ -731,7 +779,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "By engaging in a particular business thru the instrumentality of a corporation, the government divests itself pro hac vice of its sovereign character, so as to render the corporation subject to the rules of law governing private corporations",
                             "children": 
                         []
                         },                    
@@ -742,7 +790,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "The fact that there is no actual and direct employer-employee relationship between petitioner and respondents does not absolve the former from liability for the latter's monetary claims. Petitioner's charter should not be used to evade its liabilities to its employees, even to its indirect employees, as mandated by the Labor Code.",
                             "children": 
                         []
                         },                    
@@ -750,10 +798,11 @@
                             "name": "Duty Free Phils. V. Mojica",
                             "url" : "https://jurisprudence.tech/labor-code-art-224/",
                             "facts" : "",
-                            "issue" : "",
+                            "issue" : "Whether or not the NLRC has jurisdiction over the case",
+                            "ruling": "NO. Respondent Mojica is a civil service employee; therefore, jurisdiction is lodged not with the NLRC, but with the Civil Service Commission.",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Civil Service Authorities has jurisdiction in controversies involving the terms of employment, and other related issues, of the Civil Service official and employees. Civil Service Commission shall hear and decide administrative cases instituted by or brought before it directly or on appeal, including contested appointments, and review decisions and actions of its offices and of the agencies attached to it.",
                             "children": 
                         []
                         }
@@ -776,7 +825,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "An alien cannot come to Court with unclean hands. To grant a prayer of monetary awards is to authorize the violation of the Philippine labor laws requiring aliens to secure work permits before their employment.",
                             "children": 
                         []
                         },                    {
@@ -786,7 +835,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Parties may not contract away applicable provisions of law, especially peremptory provisions dealing with matters heavily impressed with public interest. The law relating to labor and employment is clearly such an area and parties are not at liberty to insulate themselves and their relationships from the impact of labor laws and regulations by simply contracting with each other.",
                             "children": 
                         []
                         },                    
@@ -797,7 +846,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Labor arbiters have original and exclusive jurisdiction over claims arising from employer-employee relations including termination disputes involving all workers, including OFWs.",
                             "children": 
                         []
                         },
@@ -808,7 +857,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Doctrine of forum non conveniens, ‘a court, in conflicts of law cases, may refuse impositions on its jurisdiction where it is not the most 'convenient' or available forum and the parties are not precluded from seeking remedies elsewhere.’",
                             "children": 
                         []
                         },                    
@@ -819,7 +868,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Doctrine of forum non conveniens, ‘a court, in conflicts of law cases, may refuse impositions on its jurisdiction where it is not the most 'convenient' or available forum and the parties are not precluded from seeking remedies elsewhere.’",
                             "children": 
                         []
                         },
@@ -830,7 +879,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Jurisdiction is defined as the power and authority of the courts to hear, try and decide cases. Jurisdiction over the subject matter is conferred by the Constitution or by law and by the material allegations in the complaint, regardless of whether the plaintiff is entitled to recover all or some of the claims or reliefs sought therein. The purpose of the law in requiring that foreign corporations doing business in the country be licensed to do so, is to subject the foreign corporations to the jurisdiction of our courts.",
                             "children": 
                         []
                         }
@@ -853,7 +902,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Article 217(a) of the Labor Code, as amended, clearly bestows upon the Labor Arbiter original and exclusive jurisdiction over claims for damages arising from employer-employee relations —in other words, the Labor Arbiter has jurisdiction to award not only the reliefs provided by labor laws, but also damages governed by the Civil Code.",
                             "children": 
                         []
                         },
@@ -864,7 +913,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Voluntary arbitrators may, by agreement of the parties, assume jurisdiction over a termination dispute such as the present case contrary to the assertion of petitioner that they may not. Backwages, in general, are awarded on the ground of equity as a form of relief that restores the income lost by the terminated employee by reason of his illegal dismissal.",
                             "children": 
                         []
                         }
@@ -887,9 +936,21 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "A Cooperative can be a labor-only contractor.",
+                            "children": 
+                        [                        
+                            {
+                            "name": "Existence of a Contractor Relationship",
+                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "facts" : "",
+                            "issue" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "The existence of an independent and permissible contractor relationship is generally established by the following criteria: whether or not the contractor is carrying on an independent business; the nature and extent of the work; the skill required; the term and duration of the relationship; the right to assign the performance of a specified piece of work; the control and supervision of the work to another; the employer's power with respect to the hiring, firing and payment of the contractor's workers; the control of the premises; the duty to supply the premises, tools, appliances, materials, and labor; and the mode, manner and terms of payment.",
                             "children": 
                         []
+                        }
+                    ]
                         },
                         {
                             "name": "Perpetual Help Credit Cooperative Inc. v. Faburada",
@@ -900,7 +961,31 @@
                             "correlation" : "",
                             "details": "",
                             "children": 
-                        []
+                        [
+                            {
+                                "name": "Three Kinds of Employees",
+                                "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                "facts" : "",
+                                "issue" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "Article 280 of the Labor Code provides for three kinds of employees: (1) regular employees or those who have been engaged to perform activities which are usually necessary or desirable in the usual business or trade of the employer; (2) project employees or those whose employment has been fixed for a specific project or undertaking, the completion or termination of which has been determined at the time of the engagement of the employee or where the work or service to be performed is seasonal in nature and the employment is for the duration of the season; and (3) casual employees or those who are neither regular nor project employees. ",
+                                "children": 
+                            [
+                                {
+                                    "name": "Employees Deemed as Regular Employees",
+                                    "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "The employees who are deemed regular are: (a) those who have been engaged to perform activities which are usually necessary or desirable in the usual trade or business of the employer; and (b) those casual employees who have rendered at least one (1) year of service, whether such service is continuous or broken, with respect to the activity in which they are employed.",
+                                    "children": 
+                                []
+                                }
+                            ]
+                            }
+                        ]
                         },
                         {
                             "name": "Ellao v. BATELEC",
@@ -909,9 +994,19 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "As a rule, the illegal dismissal of an officer or other employee of a private employer is properly cognizable by the Labor Arbiter pursuant to Article 217 (a) of the Labor Code, as amended",
+                            "children": 
+                        [                        {
+                            "name": "Exception",
+                            "url" : "https://jurisprudence.tech/labor-code-art-224/",
+                            "facts" : "",
+                            "issue" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "By way of exception, where the complaint for illegal dismissal involves a corporate officer, the controversy falls under the jurisdiction of the SEC because the controversy arises out of intra-corporate or partnership relations between and among stockholders, members, or associates, or between any or all of them and the corporation, partnership, or association of which they are stockholders, members, or associates, respectively; and between such corporation, partnership or association and the State insofar as the controversy involves the election or appointment of a director, trustee, officer, or manager of such corporation, partnership, or association.",
                             "children": 
                         []
+                        }]
                         }
                     ]
                     },
@@ -932,7 +1027,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "(Jurisdiction for refund of employment bond is with labor tribunals.) While we recognized that Article 224 of the Labor Code had been invariably applied to claims for damages filed by an employee against the employer, we held that the law should also apply with equal force to an employer's claim for damages against its dismissed employee, provided that the claim arises from or is necessarily connected with the fact of termination and should be entered as a counterclaim in the illegal dismissal case. Thus, the ‘reasonable causal connection with the employer-employee relationship’ is a requirement not only in employees' money claims against the employer but is, likewise, a condition when the claimant is the employer.",
                             "children": 
                         []
                         },
@@ -943,7 +1038,7 @@
                             "issue" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "Under Article 224 (formerly Article 217) claims for actual, moral, exemplary and other forms of damages arising from employer-employee relations are under the original and exclusive jurisdiction of labor arbiters. The determination of propriety of Gemudiano's non-deployment necessarily involves the interpretation and application of labor laws, which are within the expertise of labor tribunals.",
                             "children": 
                         []
                         },
