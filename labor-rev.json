@@ -1528,7 +1528,7 @@
                                         "ruling" : "",
                                         "significance" : "",
                                         "correlation" : "",
-                                        "details": "A compromise agreement entered into by the parties not in the presence of the Labor Arbiter before whom the case is pending shall be approved by him, if after confronting the parties, particularly the complainants, he is satisfied that they understand the terms and conditions of the settlement and that it was entered into freely and voluntarily by them and the agreement is not contrary to law, morals, and public policy.  The labor arbiters absence when the waivers were executed was remedied upon compliance with this procedure. 0",
+                                        "details": "A compromise agreement entered into by the parties not in the presence of the Labor Arbiter before whom the case is pending shall be approved by him, if after confronting the parties, particularly the complainants, he is satisfied that they understand the terms and conditions of the settlement and that it was entered into freely and voluntarily by them and the agreement is not contrary to law, morals, and public policy.  The labor arbiters absence when the waivers were executed was remedied upon compliance with this procedure.",
                                         "children": 
                                     [
                                     
@@ -1582,11 +1582,11 @@
                                 "name": "Magsaysay Maritime v. De Jesus",
                                 "url" : "",
                                 "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "issue" : "Whether or not the payment of money judgment has rendered the Petition for Certiorari before the Court of Appeals moot and academic. ",
+                                "ruling" : "Yes. In the instant case, the parties entered into a compromise agreement when they executed a Conditional Satisfaction of Judgment Award. However, the prohibition on the part of respondent to pursue any of the available legal remedies should the Court of Appeals or Supreme Court reverse the judgment award of the labor tribunals or prosecute any other suit or action in another country puts the seafarer's beneficiaries at a grave disadvantage. Thus, Career Philippines is applicable and the Court of Appeals did not err in treating the conditional settlement as an amicable settlement, effectively rendering the Petition for Certiorari moot and academic. ",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "A conditional settlement of a judgment award may be treated as a compromise agreement and a judgment on the merits of the case if it turns out to be highly prejudicial to one of the parties.",
                                 "children": 
                             [
                             
@@ -1596,14 +1596,40 @@
                                 "name": "Solomon et . al. v. Powertech Corp",
                                 "url" : "",
                                 "facts" : "",
-                                "issue" : "",
-                                "ruling" : "",
+                                "issue" : "Whether the NLRC by declaring that the compromise agreement entered between the Gestiada and Powertech as null and void acted with grave abuse of discretion. ",
+                                "ruling" : "NO. The NLRC justifiably declared the compromise agreement as void, and the CA gravely erred in upholding the compromise agreement. CA decision was premised on the compromise agreement entered into in good faith. But it is clear that there is ample evidence indicating that Powertech was negotiating in bad faith and, worse, it colluded with Gestiada in shortchanging, nay, fraudulently depriving petitioners of their just share in the award. SC rebuke Powertech’s unscrupulous and despicable act of using an apparently valid compromise agreement to evade payment of its legal obligation to petitioners. We will not allow employers to make a mockery of our legal system by using legal means to perpetrate fraud. This should serve as a warning to parties in labor cases to endeavor to achieve a just and equitable resolution of their disputes and to enter into compromise agreements in good faith. ",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "",
+                                "details": "Collusion is a species of fraud that Article 227 of the LC empowers the NLRC to void a compromise agreement for fraud. Any compromise settlement, including those involving labor standard laws, voluntarily agreed upon by the parties with the assistance of the Bureau or the regional office of the Department of Labor, shall be final and binding upon the parties. The NLRC or any court shall not assume jurisdiction over issues involved therein except in case of non-compliance thereof or if there is prima facie evidence that the settlement was obtained through fraud, misrepresentation, or coercion. ",
                                 "children": 
                             [
-                            
+                                {
+                                    "name": "SC's warning on SPAs",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "There would have been no opportunity for collusion between Powertech and Gestiada without the blanket authority given by petitioners to Gestiada in the special power of attorney. This should serve as a caveat to principals, particularly to laborers in labor disputes, to be wary of giving too broad an authority to their agents. The powers of the agent may be circumscribed either (a) by putting a clause in the special power of attorney providing a minimum amount upon which the agent may compromise on behalf of the principal or (b) by providing that some acts of the agent are conditional and subject to the approval of the principal. ",
+                                    "children": 
+                                [
+                                    {
+                                        "name": "Purpose",
+                                        "url" : "",
+                                        "facts" : "",
+                                        "issue" : "",
+                                        "ruling" : "",
+                                        "significance" : "",
+                                        "correlation" : "",
+                                        "details": "These conditions may impose additional burden on the negotiating parties. But it will better protect them since the agent will only be authorized to settle for an amount predictably acceptable to the principal, and the third party will have full knowledge of the terms and conditions the principal would not disown or disclaim. ",
+                                        "children": 
+                                    [
+                                    
+                                    ]
+                                    }
+                                ]
+                                }
                             ]
                             },
                             {
