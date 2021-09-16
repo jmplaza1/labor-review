@@ -1040,10 +1040,23 @@
                             "ruling" : "The Supreme Court reversed the decision of the Court of Appeals. The Court ruled that there was no forum shopping in the case at bar as there was no identity of parties, rights and causes of action and reliefs sought. The case before the NLRC was a labor case on which petitioner was not a party, while the reivindicatoria case filed by the petitioner in the trial court was to recover the property illegally levied upon and sold at public auction. The Court also ruled that a third party may avail himself of alternative remedies cumulatively, and one will not preclude the third party from availing himself of the alternative remedies in the event he failed in the remedy first availed of. The Supreme Court annulled the sale on execution of the subject property and the subsequent sale of the same.",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "A third party whose property has been levied upon by a sheriff to enforce a decision against a judgment debtor is afforded with several alternative remedies to protect its interests. The third party may avail himself of alternative remedies cumulatively, and one will not preclude the third party from availing himself of the other alternative remedies in the event he failed in the remedy first availed of. Thus, a third party may avail himself of the following alternative remedies: a) File a third party claim with the sheriff of the Labor Arbiter, and b) If the third party claim is denied, the third party may appeal the denial to the NLRC. Even if a third party claim was denied, a third party may still file a proper action with a competent court to recover ownership of the property illegally seized by the sheriff. This finds support in Section 17 (now 16), Rule 39, Revised Rules of Court. In light of the above, the filing of a third party claim with the Labor Arbiter and the NLRC did not preclude the petitioner from filing a subsequent action for recovery of property and damages with the Regional Trial Court. And, the institution of such complaint will not make petitioner guilty of forum shopping.",
+                            "details": "A third party whose property has been levied upon by a sheriff to enforce a decision against a judgment debtor is afforded with several alternative remedies to protect its interests. The third party may avail himself of alternative remedies cumulatively, and one will not preclude the third party from availing himself of the other alternative remedies in the event he failed in the remedy first availed of. ",
                             "children": 
                         [
-                        
+                            {
+                                "name": "Alternative Remedies",
+                                "url" : "https://jurisprudence.tech/labor-code-art-230/",
+                                "facts" : "",
+                                "issue" : "",
+                                "ruling" : "",
+                                "significance" : "",
+                                "correlation" : "",
+                                "details": "A third party may avail himself of the following alternative remedies: a) File a third party claim with the sheriff of the Labor Arbiter, and b) If the third party claim is denied, the third party may appeal the denial to the NLRC. Even if a third party claim was denied, a third party may still file a proper action with a competent court to recover ownership of the property illegally seized by the sheriff. This finds support in Section 17 (now 16), Rule 39, Revised Rules of Court. In light of the above, the filing of a third party claim with the Labor Arbiter and the NLRC did not preclude the petitioner from filing a subsequent action for recovery of property and damages with the Regional Trial Court. And, the institution of such complaint will not make petitioner guilty of forum shopping.",
+                                "children": 
+                            [
+                            
+                            ]
+                            }
                         ]
                         },
                         {
@@ -1121,10 +1134,10 @@
                                 "ruling" : "",
                                 "significance" : "",
                                 "correlation" : "",
-                                "details": "It is an elementary and fundamental principle of corporation law that a corporation is an artificial being invested by law with a personality separate and distinct from its stockholders and from other corporations to which it may be connected. However, the corporate mask may be lifted and the corporate veil may be pierced when a corporation is just but the alter ego of a person or of another corporation. Moreover, piercing the corporate veil may also be resorted to by the courts or quasi-judicial bodies when ‘[the separate personality of a corporation] is used as a means to perpetrate fraud or an illegal act, or as a vehicle for the evasion of an existing obligation, the circumvention of statutes, or to confuse legitimate issues.’ Furthermore, the veil of corporate fiction may also be pierced as when the same is made as a shield to confuse legitimate issues. As observed, when an ‘affiliate company’ takes the cudgels for another, it means that both have a common interest. If indeed there was no commonality or intertwining of an interest in frustrating the respondents' monetary claims, the petitioner and not Genuino Ice would have posted a bond for its own appeal.",
+                                "details": "The corporate mask may be lifted and the corporate veil may be pierced when a corporation is just but the alter ego of a person or of another corporation. Moreover, piercing the corporate veil may also be resorted to by the courts or quasi-judicial bodies when ‘[the separate personality of a corporation] is used as a means to perpetrate fraud or an illegal act, or as a vehicle for the evasion of an existing obligation, the circumvention of statutes, or to confuse legitimate issues.’ Furthermore, the veil of corporate fiction may also be pierced as when the same is made as a shield to confuse legitimate issues. As observed, when an ‘affiliate company’ takes the cudgels for another, it means that both have a common interest. If indeed there was no commonality or intertwining of an interest in frustrating the respondents' monetary claims, the petitioner and not Genuino Ice would have posted a bond for its own appeal.",
                                 "children": 
                             [
-                            
+
                             ]
                             }
                         ]
