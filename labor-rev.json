@@ -4485,7 +4485,6 @@
                             "enum3": "Subject to the exercise by the President or by the Secretary of Labor and Employment of the powers vested in them by Articles 263 and 264 of this Code, 201 the civil aspects of all cases involving unfair labor practices, which may include claims for actual, moral, exemplary and other forms of damages, attorney's fees and other affirmative relief, shall be under the jurisdiction of the Labor Arbiters. The Labor Arbiters shall give utmost priority to the hearing and resolution of all cases involving unfair labor practices. They shall resolve such cases within thirty (30) calendar days from the time they are submitted for decision. ",
                             "enum4": "Recovery of civil liability in the administrative proceedings shall bar recovery under the Civil Code.",
                             "enum5": "No criminal prosecution under this Title may be instituted without a final judgment finding that an unfair labor practice was committed, having been first obtained in the preceding paragraph. During the pendency of such administrative proceeding, the running of the period of prescription of the criminal offense herein penalized shall be considered interrupted: Provided, however,That the final judgment in the administrative proceedings shall not be binding in the criminal case nor be considered as evidence of guilt but merely as proof of compliance of the requirements therein set forth.",
-
                             "enum6": "",
                             "enum7": "",
                             "enum8": "",
@@ -4683,7 +4682,7 @@
                             ]
                         },
                         {
-                            "name": "ARTICLE 260. [249] Unfair Labor Practices of Labor Organizations.",
+                            "name": "ARTICLE 260. [249]",
                             "url": "",
                             "facts": "",
                             "issue": "",
@@ -4691,9 +4690,9 @@
                             "significance": "",
                             "correlation": "",
                             "details": "It shall be unfair labor practice for a labor organization, its officers, agents or representatives:",
-                            "enum1": "[Enumeration Below]",
-                            "enum2": "The provisions of the preceding paragraph notwithstanding, only the officers, members of governing boards, representatives or agents or members of labor associations or organizations who have actually participated in, authorized or ratified unfair labor practices shall be held criminally liable.",
-                            "enum3": "",
+                            "enum1": "Unfair Labor Practices of Labor Organizations.",
+                            "enum2": "[Enumeration Below]",
+                            "enum3": "The provisions of the preceding paragraph notwithstanding, only the officers, members of governing boards, representatives or agents or members of labor associations or organizations who have actually participated in, authorized or ratified unfair labor practices shall be held criminally liable.",
                             "enum4": "",
                             "enum5": "",
                             "enum6": "",
