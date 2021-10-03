@@ -4608,6 +4608,44 @@
                             "enum8": "",
                             "children": [
                                 {
+                                    "name": "Notes",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "Bad faith bargaining",
+                                    "enum1": "yellow dog condition - 'coward' - a condition is imposed by the employer prohibiting membership in a union for his continued employment",
+                                    "enum2": "Boulwarism ",
+                                    "enum3": "feather bedding - employees paid for services not rendered - feathers for the bed of guests",
+                                    "enum4": "surface bargaining",
+                                    "enum5": "blue sky bargaining",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    },
+                                    {
+                                        "name": "Notes on Violation of CBA",
+                                        "url": "",
+                                        "facts": "",
+                                        "issue": "",
+                                        "ruling": "",
+                                        "significance": "",
+                                        "correlation": "",
+                                        "details": "",
+                                        "enum1": "a simple violation of the CBA will not amount to the commission of ULP",
+                                        "enum2": "To constitute ULP, there must be a deliberate and flagrant violation of the economic provisions of the CBA.",
+                                        "enum3": "Such violation that does not constitute a ULP is merely a grievance.",
+                                        "enum4": "A grievance is any problem, controversy, concern, or issue relating to the interpretation or implementation of the CBA, and relating to the interpretation, implementation or enforcement of company personeel polciies.",
+                                        "enum5": "",
+                                        "enum6": "",
+                                        "enum7": "",
+                                        "enum8": "",
+                                        "children": []
+                                        },
+                                {
                                     "name": "",
                                     "url": "",
                                     "facts": "",
@@ -4807,7 +4845,7 @@
                                     "significance": "",
                                     "correlation": "",
                                     "details": "(a)  To restrain or coerce employees in the exercise of their right to self-organization. However, a labor organization shall have the right to prescribe its own rules with respect to the acquisition or retention of membership;",
-                                    "enum1": "",
+                                    "enum1": "NOTE: interference is not present unlike in ULP of Employer. Therefore, interference by employees is allowed and is not ULP.",
                                     "enum2": "",
                                     "enum3": "",
                                     "enum4": "",
@@ -5319,7 +5357,25 @@
                             "enum7": "",
                             "enum8": "",
                             "children": [
-
+                                {
+                                    "name": "Notes",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "If the grievance is not resolved by the Grievance machinery, NCMB or voluntary arbitration",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    }
                             ]
                         },
                         {
@@ -5379,6 +5435,25 @@
                             "enum7": "",
                             "enum8": "",
                             "children": [
+                                {
+                                    "name": "Factors that Affect the Legality of a Strike or Lockout",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "1. Statute and Constitution - if a strike is in accordance with statute and constitution, it will affect the legality. NOTE: Government employees are not allowed to go on strike. GOCC with original charters - part of govt machinery // if GOCC is organized under Corpo Code - strike is allowed",
+                                    "enum2": "2. Agreement - CBA - If there is a no lock out, no strike out policy - applies only to bargaining deadlock; NOTE: Even if such provision exists in CBA, if the ground is ULP, strike is allowed. ",
+                                    "enum3": "3. Purpose - to have a valid strike, the purpose is lawful. The strike must be based on lawful grounds: 1) ULP, 2) Collective Bargaining Deadlock",
+                                    "enum4": "4. Lawful means. Strike must be conducted in a peaceful manner to be legal. It will be illegal if there is violence, obstruction of ingress and egress, terrorism (prohibited acts)",
+                                    "enum5": "5. Injunction or Prohibition. If there is an injunction or restraining order, a strike will be illegal. Who issues injunction orders? GR: Labor arbiter cannot issue. NLRC - may issue injunction when there is a labor dispute. NOTE: When may the Sec. of Labor issue an assumption order or certification order (delegating to NLRC so it would have cognizance of the dispute)? When there is a labor dispute causing or likely to cause a strike or lockout. -> labor dispute here must have ULP and BD causing or likely to cause strike or lockout in an industry indispensable to national interest. NOTE: the NLCR en banc does not have adjudicatory powers. Such powers are exercised by its divisions. Orders are immediately executory and self executory. No need for enforcement order. Orders are in effect telling the striking employees to go back to work or the lockouting employer to reopen within 24 hours. May the regular courts issue injuction orders against a strike or lockout? GR: No. Exception: If one party is affected by the strike but is not a party to the labor dispute.",
+                                    "enum6": "6. It must comply with the procedural requirement. i.e. notice of strike before the Department of Labor (with stated grounds, notification to the other party, filed by SEBA if bargaining deadlock; for ULP, filed by any legitimate labor organization but if there is a CBA, the notice of strike must be filed by the SEBA), cooling off period, strike vote - there will be a schedule for a strike vote referendum to find out if majority wants the strike; who can vote? If Bargaining Deadlock, members of SEBA; If ULP, members of the legitimate labor organization who filed the notice of strike, unless there is CBA where only the members of SEBA vote. Strike Vote Report submitted to the DOLE. 7 day strike ban - counted from the date of submission of the strike vote report.",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    },
                                 {
                                     "name": "",
                                     "url": "",
