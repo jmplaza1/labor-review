@@ -4584,9 +4584,9 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
-                                    }
+                                }
                             ]
                         },
                         {
@@ -4625,26 +4625,26 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
-                                    {
-                                        "name": "Notes on Violation of CBA",
-                                        "url": "",
-                                        "facts": "",
-                                        "issue": "",
-                                        "ruling": "",
-                                        "significance": "",
-                                        "correlation": "",
-                                        "details": "",
-                                        "enum1": "a simple violation of the CBA will not amount to the commission of ULP",
-                                        "enum2": "To constitute ULP, there must be a deliberate and flagrant violation of the economic provisions of the CBA.",
-                                        "enum3": "Such violation that does not constitute a ULP is merely a grievance.",
-                                        "enum4": "A grievance is any problem, controversy, concern, or issue relating to the interpretation or implementation of the CBA, and relating to the interpretation, implementation or enforcement of company personeel polciies.",
-                                        "enum5": "",
-                                        "enum6": "",
-                                        "enum7": "",
-                                        "enum8": "",
-                                        "children": []
-                                        },
+                                },
+                                {
+                                    "name": "Notes on Violation of CBA",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "a simple violation of the CBA will not amount to the commission of ULP",
+                                    "enum2": "To constitute ULP, there must be a deliberate and flagrant violation of the economic provisions of the CBA.",
+                                    "enum3": "Such violation that does not constitute a ULP is merely a grievance.",
+                                    "enum4": "A grievance is any problem, controversy, concern, or issue relating to the interpretation or implementation of the CBA, and relating to the interpretation, implementation or enforcement of company personeel polciies.",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                },
                                 {
                                     "name": "",
                                     "url": "",
@@ -5204,7 +5204,7 @@
                             "enum7": "",
                             "enum8": "",
                             "children": []
-                            },
+                        },
                         {
                             "name": "Notes on Collective Bargaining UNIT",
                             "url": "",
@@ -5318,7 +5318,7 @@
                             "enum7": "",
                             "enum8": "",
                             "children": []
-                            }
+                        }
                     ]
                 },
                 {
@@ -5375,7 +5375,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    }
+                                }
                             ]
                         },
                         {
@@ -5453,7 +5453,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
+                                },
                                 {
                                     "name": "",
                                     "url": "",
@@ -5870,6 +5870,102 @@
                     "correlation": "",
                     "details": "Security of Tenure.",
                     "enum1": "In cases of regular employment, the employer shall not terminate the services of an employee except for a just cause or when authorized by this Title. An employee who is unjustly dismissed from work shall be entitled to reinstatement without loss of seniority rights and other privileges and to his full backwages, inclusive of allowances, and to his other benefits or their monetary equivalent computed from the time his compensation was withheld from him up to the time of his actual reinstatement.",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Module 4",
+            "url": "",
+            "facts": "",
+            "issue": "",
+            "ruling": "",
+            "significance": "",
+            "correlation": "",
+            "details": "",
+            "enum1": "",
+            "enum2": "",
+            "enum3": "",
+            "enum4": "",
+            "enum5": "",
+            "enum6": "",
+            "enum7": "",
+            "enum8": "",
+            "children": [
+                {
+                    "name": "Article 295 (formerly Article 280)",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "correlation": "",
+                    "details": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "children": []
+                },
+                {
+                    "name": "Management Prerogative",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "correlation": "",
+                    "details": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "children": []
+                },
+                {
+                    "name": "Article 296 (formerly Article 281)",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "correlation": "",
+                    "details": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "children": []
+                },
+                {
+                    "name": "Article 297 (formerly Article  282)",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "correlation": "",
+                    "details": "",
+                    "enum1": "",
                     "enum2": "",
                     "enum3": "",
                     "enum4": "",
